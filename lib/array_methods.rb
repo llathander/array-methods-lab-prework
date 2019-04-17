@@ -15,7 +15,7 @@ end
 
 def using_first(array)
   array = ["wow", "I", "am", "really", "learning", "arrays!"]
-  return 
+  return array.first
   
 end
 
